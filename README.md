@@ -54,7 +54,7 @@ brew install chromedriver
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-Then, try again with `brew install  chromedrive`
+Then, try again with `brew install chromedrive`
 
 ### Windows Users 🖥️
 
