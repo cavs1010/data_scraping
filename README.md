@@ -49,6 +49,12 @@ For Mac users, installing ChromeDriver is straightforward. Simply run the follow
 ```bash
 brew install chromedriver
 ```
+🍺 if you don't have **Homebrew** installed, you need to install it first. Homebrew is a package manager for macOS that makes it easy to install and manage software, similar to how pip is used for managing Python packages. Run the following command in your terminal to install Homebrew:
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+Then, try again with `brew install  chromedrive`
 
 ### Windows Users 🖥️
 
